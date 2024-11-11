@@ -42,9 +42,9 @@ RegisterNumber:
 ## activity_main.xml:
 
 
-## AndroidMainfest.xml
-
 ## Output
+
+![Screenshot from 2024-11-11 15-42-38](https://github.com/user-attachments/assets/44e6eae2-7543-49ff-8e32-36df14d7439c)![Screenshot from 2024-11-11 15-43-03](https://github.com/user-attachments/assets/abbbf94f-f6f3-4a31-82a0-c0be7d2599dd)
 
 
 
